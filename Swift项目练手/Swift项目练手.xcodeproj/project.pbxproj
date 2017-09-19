@@ -146,7 +146,6 @@
 		7E7F328C1F715303002B3821 /* Follow */ = {
 			isa = PBXGroup;
 			children = (
-				7E7F32981F715D38002B3821 /* Follow.storyboard */,
 			);
 			path = Follow;
 			sourceTree = "<group>";
@@ -154,7 +153,6 @@
 		7E7F328D1F715303002B3821 /* Home */ = {
 			isa = PBXGroup;
 			children = (
-				7E7F32921F715C84002B3821 /* Home.storyboard */,
 			);
 			path = Home;
 			sourceTree = "<group>";
@@ -162,7 +160,6 @@
 		7E7F328E1F715303002B3821 /* Live */ = {
 			isa = PBXGroup;
 			children = (
-				7E7F32951F715CFB002B3821 /* Live.storyboard */,
 			);
 			path = Live;
 			sourceTree = "<group>";
@@ -171,6 +168,10 @@
 			isa = PBXGroup;
 			children = (
 				7E7F32611F714241002B3821 /* Main.storyboard */,
+				7E7F32921F715C84002B3821 /* Home.storyboard */,
+				7E7F32951F715CFB002B3821 /* Live.storyboard */,
+				7E7F32981F715D38002B3821 /* Follow.storyboard */,
+				7E7F329B1F715D90002B3821 /* Prodfile.storyboard */,
 			);
 			path = Main;
 			sourceTree = "<group>";
@@ -178,7 +179,6 @@
 		7E7F32901F715303002B3821 /* Prodfile */ = {
 			isa = PBXGroup;
 			children = (
-				7E7F329B1F715D90002B3821 /* Prodfile.storyboard */,
 			);
 			path = Prodfile;
 			sourceTree = "<group>";
@@ -387,7 +387,6 @@
 				7E7F32931F715C84002B3821 /* Base */,
 			);
 			name = Home.storyboard;
-			path = ../Main;
 			sourceTree = "<group>";
 		};
 		7E7F32951F715CFB002B3821 /* Live.storyboard */ = {
@@ -396,7 +395,6 @@
 				7E7F32961F715CFB002B3821 /* Base */,
 			);
 			name = Live.storyboard;
-			path = ../Main;
 			sourceTree = "<group>";
 		};
 		7E7F32981F715D38002B3821 /* Follow.storyboard */ = {
@@ -405,7 +403,6 @@
 				7E7F32991F715D38002B3821 /* Base */,
 			);
 			name = Follow.storyboard;
-			path = ../Main;
 			sourceTree = "<group>";
 		};
 		7E7F329B1F715D90002B3821 /* Prodfile.storyboard */ = {
@@ -414,7 +411,6 @@
 				7E7F329C1F715D90002B3821 /* Base */,
 			);
 			name = Prodfile.storyboard;
-			path = ../Main;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
